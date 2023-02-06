@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/23123990/217086216-7b4b7b0d-f954-4009-bfa2-65715142678c.png)
+# Internal Facing WebTool
+
+Quick sample project to show general design and layout.
+
+- Todo: build out dynamic and non-static elements of data
+- Todo: connect the login/signup to logic verifying the user
+
 ## Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
